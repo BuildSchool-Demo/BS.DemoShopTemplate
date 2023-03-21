@@ -1,4 +1,4 @@
-# BS.DemoShop
+# BS.DemoShop Test
 ## Get Started
 1. Ensure your connection string(appsettings.json).
 2. Migration Database : In development environment will drop and create new db then insert seed data, in production environment will migrate all migrations and insert seed data.
